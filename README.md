@@ -39,7 +39,7 @@ I am eager to discuss projects and explore how I can contribute. If you are in s
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2>Mobile Development</h2>
+<h4>Mobile Development</h4>
 <div>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -49,7 +49,7 @@ I am eager to discuss projects and explore how I can contribute. If you are in s
   </a>
 </div>
 
-<h2>Cloud Services</h2>
+<h4>Cloud Services</h4>
 <div>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -62,7 +62,7 @@ I am eager to discuss projects and explore how I can contribute. If you are in s
   </a>
 </div>
 
-<h2>Frontend Development</h2>
+<h4>Frontend Development</h4>
 <div>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -78,7 +78,7 @@ I am eager to discuss projects and explore how I can contribute. If you are in s
   </a>
 </div>
 
-<h2>Backend Development</h2>
+<h4>Backend Development</h4>
 <div>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
@@ -91,7 +91,7 @@ I am eager to discuss projects and explore how I can contribute. If you are in s
   </a>
 </div>
 
-<h2>Programming Languages</h2>
+<h4>Programming Languages</h4>
 <div>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
