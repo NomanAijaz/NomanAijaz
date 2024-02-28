@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noman Aijaz</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<p align="center">An experienced Full Stack Engineer specializing in TypeScript, NodeJs, NestJs, ReactJs, Python, FastAPI, MongoDB, Postgres, MYSQL and AWS, I possess the skills and expertise required to excel in a diverse range of enterprise level application development. I have a proven track record of crafting highly scalable, secure, and user-friendly web applications, while continuously staying updated with the latest technologies to deliver innovative solutions.
-
+<p align="center">Being an experienced Full Stack Engineer specializing in TypeScript, NodeJs, NestJs, ReactJs, Python, FastAPI, MongoDB, Postgres, MYSQL and AWS, I possess the skills and expertise required to excel in a diverse range of enterprise level application development. I have a proven track record of crafting highly scalable, secure, and user-friendly web applications, while continuously staying updated with the latest technologies to deliver innovative solutions. 
 Beyond my technical prowess, I am a highly effective communicator and a collaborative team player. I approach each project with a keen willingness to learn new technologies and adapt to unique requirements, committed to work of the utmost quality that precisely aligns with requirements.
-
 I am eager to discuss projects and explore how I can contribute. If you are in search of a dependable and skilled Full Stack Developer, I encourage you to reach out to me. I look forward to discuss how I can bring value to your project.
 </p>
 <p align="center"><img width="300" height="200" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
