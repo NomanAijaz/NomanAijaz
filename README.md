@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Aijaz</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A dependable and skilled Full-Stack Developer</h3>
 <p align="center"><img width="300" height="200" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanaijaz&label=Profile%20views&color=0e75b6&style=flat" alt="nomanaijaz" /> </p>
 
@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/nomanaijaz" target="blank"><img src="https://img.shields.io/twitter/follow/nomanaijaz?logo=twitter&style=for-the-badge" alt="nomanaijaz" /></a> </p>
 
-- 🔭 I’m currently working on [Capture Memories Store](currently on local machine)
+- 🔭 I’m currently working on **AI Based Time Tacker and Project Management System**
 
-- 🌱 I’m currently learning **Next.js, Vue.js, Electron.js**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **React.js, Node.js, Express MongoDB, Flutter, Java, JavaScript, Android Studio,**
+- 💬 Ask me about **React.js, Node.js, ExpressJs MongoDB, Flutter, Java, JavaScript, Android Studio, AWS, Git & Github**
 
 - 📫 How to reach me **noman.aijaz332@gmail.com**
+
+- 📫 My Portfolio **https://www.nomanaijaz.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
