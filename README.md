@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **noman.aijaz332@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://www.nomanaijaz.com/](https://www.nomanaijaz.com/)
+- 👨‍💻 All of my projects are available at [https://www.nomanaijaz.com/](https://www.nomanaijaz.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZjLU5KAVRDeXVOKjV0nh-onMj_F3VjeP/view?usp=sharing](https://drive.google.com/file/d/1ZjLU5KAVRDeXVOKjV0nh-onMj_F3VjeP/view?usp=sharing)
 
